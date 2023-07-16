@@ -1,0 +1,10 @@
+global using Xunit;
+global using BooksNET6API.Controllers;
+global using BooksNET6API.Models.DAL.Contract;
+global using BooksNET6API.Models.Entities;
+global using FluentAssertions;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Moq;
+global using System;
+global using System.Threading.Tasks;
